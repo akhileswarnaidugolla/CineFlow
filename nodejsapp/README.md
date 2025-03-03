@@ -1,4 +1,4 @@
-Tech Stack
+### Tech Stack
 
 express - main Backend Framework 
 cors - Cross Origin Resource Sharing to allow Next.js to talk to the Backend 
